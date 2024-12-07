@@ -26,7 +26,7 @@ This source code is available in the hope that it will be useful, but without an
 
 ## Notes
 
-The simulation results in this paper take the voltage magnitude to be 120 V. This should be the nominal voltage value not the voltage magnitude. Correcting this simply scales the simulation results.
+The simulation results in this paper take the voltage magnitude to be 120 V. This should be the nominal voltage value not the voltage magnitude. Correcting this simply scales the simulation results. This is corrected in the code in this repository now.
 
 The control Lyapunov function used in the paper is $V(x) = (x - x^{\*})^\top (x - x^{\*})$. The paper incorrectly states that $V(x) = x^\top x$. 
 
