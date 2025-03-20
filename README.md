@@ -32,15 +32,14 @@ The control Lyapunov function used in the paper is $V(x) = (x - x^{\*})^\top (x 
 
 # Citing
 
-If you find this repository useful in your work, we kindly request that you cite the following [publication](https://arxiv.org/abs/2409.13890):
+If you find this repository useful in your work, we kindly request that you cite the following [publication](https://scholarspace.manoa.hawaii.edu/items/591fb26c-8ba6-44e3-85b8-e96d02abe496):
 ```
-@misc{joswigjones2024safecontrolgridinterfacinginverters,
-      title={Safe Control of Grid-Interfacing Inverters with Current Magnitude Limits}, 
-      author={Trager Joswig-Jones and Baosen Zhang},
-      year={2024},
-      eprint={2409.13890},
-      archivePrefix={arXiv},
-      primaryClass={eess.SY},
-      url={https://arxiv.org/abs/2409.13890}, 
+@misc{Joswig-Jones_Zhang_2025,
+      title={Safe Control of Grid-Interfacing Inverters with Current Magnitude Limits},
+      url={http://dx.doi.org/10.24251/HICSS.2025.363}, DOI={10.24251/hicss.2025.363},
+      journal={Proceedings of the Annual Hawaii International Conference on System Sciences},
+      publisher={Hawaii International Conference on System Sciences},
+      author={Joswig-Jones, Trager and Zhang, Baosen},
+      year={2025}
 }
 ```
